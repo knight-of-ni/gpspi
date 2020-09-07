@@ -9,3 +9,5 @@ Once retrieved, the saved data can then be uploaded to an online mapping tool, s
 Click [here](https://www.google.com/maps/d/edit?mid=1XejcUJhBXgsHitKADBeaCYE1XxFvrYhi&usp=sharing) for one such example.
 
 See the [Wiki](https://github.com/knight-of-ni/gpspi/wiki) for assembly instructions.
+
+NOTE: This project is still in a testing stage. Please report problems. See [Issue #1](https://github.com/knight-of-ni/gpspi/issues/1) for a list of planned features and improvements.
