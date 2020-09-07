@@ -7,3 +7,5 @@ The saved data can be retrieved over a builtin wifi access point.
 Once retrieved, the saved data can then be uploaded to an online mapping tool, such as Google [My Maps](https://www.google.com/mymaps). 
 
 Click [here](https://www.google.com/maps/d/edit?mid=1XejcUJhBXgsHitKADBeaCYE1XxFvrYhi&usp=sharing) for one such example.
+
+See the [Wiki](https://github.com/knight-of-ni/gpspi/wiki) for assembly instructions.
