@@ -1,0 +1,13 @@
+[Unit]
+Description=GPS Data and Photo Logging Service
+After=gpsd.service ntp.service
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/local/bin/gpslogger.py
+User=gps
+
+[Install]
+WantedBy=multi-user.target
+
