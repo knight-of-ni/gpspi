@@ -10,4 +10,6 @@ Click [here](https://www.google.com/maps/d/edit?mid=1XejcUJhBXgsHitKADBeaCYE1XxF
 
 See the [Wiki](https://github.com/knight-of-ni/gpspi/wiki) for assembly instructions.
 
-NOTE: This project is still in a testing stage. Please report problems. See [Issue #1](https://github.com/knight-of-ni/gpspi/issues/1) for a list of planned features and improvements.
+## This project is still in a testing stage.
+This code should be considered beta at best.
+See [Issue #1](https://github.com/knight-of-ni/gpspi/issues/1) for a list of planned features and improvements.
